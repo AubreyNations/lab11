@@ -9,7 +9,7 @@
 from Tkinter import *
 root = Tk()
 # Create the canvas widget
-drawpad = Canvas(root, width=800,height=600, background='white')
+drawpad = Canvas(root, width=800,height=600, background='#7CE7F7')
 drawpad.grid(row=0, column=0)
 
 # Create the oval
